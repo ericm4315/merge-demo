@@ -1,5 +1,5 @@
-# merge-demo
-this
+# merge-demo  
+that
 is
 good
 text
